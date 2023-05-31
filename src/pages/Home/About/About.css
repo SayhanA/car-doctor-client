@@ -1,0 +1,7 @@
+.img-body{
+    background: url(../../../assets/images/about_us/person.jpg) no-repeat left center/cover;
+}
+.img-frame{
+    background: url(../../../assets/images/about_us/parts.jpg) no-repeat left center/cover;
+    z-index: 20;
+}
